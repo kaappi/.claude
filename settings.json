@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "kaappi-marketplace": {
+      "source": {
+        "source": "directory",
+        "path": "./infra"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "kaappi-dev@kaappi-marketplace": true
+  }
+}
